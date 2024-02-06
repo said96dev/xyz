@@ -6,10 +6,13 @@ const Wrapper = styled.section`
   background: var(--white);
   padding: 2rem 2rem;
   box-shadow: var(--shadow-2);
-  display: flex;
   justify-content: space-between;
+  margin: auto;
   align-items: center;
-
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
   h3 {
     margin: 0;
   }

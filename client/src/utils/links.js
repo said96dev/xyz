@@ -22,6 +22,13 @@ const links = [
   },
   {
     id: 3,
+    text: 'Umzug',
+    path: 'services',
+    icon: <FaTasks />,
+    accessByUser: true,
+  },
+  {
+    id: 4,
     text: 'Kontakt',
     path: 'kontakt',
     icon: <HiOutlineUserCircle />,

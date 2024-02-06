@@ -1,11 +1,11 @@
 import React from 'react'
-import { HeroSection, MovingForm } from '../components'
+import { HeroSection, AboutSection } from '../components'
 const HomePage = () => {
   return (
     <div>
       <div>
         <HeroSection />
-        <MovingForm />
+        <AboutSection />
       </div>
     </div>
   )

@@ -44,7 +44,13 @@ import MovingToForm from './MovingToForm'
 import MovingFromForm from './MovingFromForm'
 import PersonDaten from './PersonDaten'
 import Appointment from './Appointment'
+import AboutSection from './AboutSection'
+import Footer from './Footer'
+import ContactForm from './ContactForm'
 export {
+  ContactForm,
+  Footer,
+  AboutSection,
   Appointment,
   PersonDaten,
   MovingFromForm,

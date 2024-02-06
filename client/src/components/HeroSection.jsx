@@ -3,7 +3,7 @@ import delivery_truck from '../assets/images/heavy_box.svg'
 import { Link } from 'react-router-dom'
 import Wrapper from '../assets/wrappers/LandingPage'
 
-function Landing() {
+function HeroSection() {
   return (
     <Wrapper>
       <nav>
@@ -30,4 +30,4 @@ function Landing() {
   )
 }
 
-export default Landing
+export default HeroSection
